@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Osal22
 - 👀 I’m interested in Mobile Autonomous Robots
-- 🌱 I’m currently learning AI Machine Vision
 
 
 <!---
