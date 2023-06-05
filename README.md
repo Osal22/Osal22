@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Osal22
+- 👋 Hi, I’m @Osal
 - 👀 I’m interested in Mobile Autonomous Robots
 
 
